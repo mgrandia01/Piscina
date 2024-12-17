@@ -1,0 +1,9 @@
+#!/bin/bash
+
+ls -ptm
+
+#p append / indicator to directories
+#t sort by time, newest first; see --time
+#m fill width with a comma separated list of entries
+
+
